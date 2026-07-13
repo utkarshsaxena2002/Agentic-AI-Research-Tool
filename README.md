@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔎 Agentic AI Research Tool
 
 > A self-improving AI research assistant built with **LangGraph**, **LangChain**, and **OpenRouter** that searches the web, reads reliable sources, writes professional research reports, critiques its own output, and automatically revises until a desired quality score is achieved.
@@ -56,4 +55,4 @@ Instead of relying on a single prompt, the system follows an iterative reasoning
 =======
 # Agentic-AI-Research-Tool
 An Agentic AI Research Tool powered by LangGraph that autonomously searches the web, analyzes sources, writes research reports, critiques its own work, and iteratively improves the output using multi-agent collaboration.
->>>>>>> e650130ba6a4e9eda6353c4e3d71d744f0ac3cae
+
